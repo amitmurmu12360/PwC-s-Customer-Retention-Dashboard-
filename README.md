@@ -41,7 +41,7 @@ The project has equipped me with invaluable skills in data cleaning, KPI definit
 
 This project is a testament to my ability to convert raw data into actionable recommendations, emphasizing my proficiency in using Power BI for real-world business analysis. I hope it serves as a compelling addition to my portfolio, showcasing my capabilities in data analysis and visualization.
 
-Feel free to explore this repository, delve into the code and datasets, and reach out to me for any queries or potential collaboration. Connect with me on [LinkedIn](insert LinkedIn profile link) for more insights and visit my [portfolio website](insert portfolio website link) for a detailed overview of this project.
+Feel free to explore this repository, delve into the code and datasets, and reach out to me for any queries or potential collaboration. Connect with me on [LinkedIn](insert LinkedIn profile link) for more insights and visit my [portfolio website](https://www.novypro.com/profile_projects/amit-1) for a detailed overview of this project.
 
 Thank you for your interest in my work!
 
